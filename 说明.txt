@@ -1,0 +1,2 @@
+用法：一个一个百分比布局文件移植到你所需的项目注意一下 attr文件还有布局帮助类别漏了，需要移植的都在percent-support-extends
+文件夹里，还有千万记得gradle.properties文件也要导入你的项目。
